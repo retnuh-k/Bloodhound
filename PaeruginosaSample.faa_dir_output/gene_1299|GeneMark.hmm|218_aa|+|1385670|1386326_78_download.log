@@ -1,0 +1,11 @@
+--2022-05-09 07:28:26--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_KF0Osqf/jp_KF0Osqf.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8180 (8.0K) [text/plain]
+Saving to: ‘jp_KF0Osqf.jnet’
+
+     0K .......                                               100% 14.9M=0.001s
+
+2022-05-09 07:28:27 (14.9 MB/s) - ‘jp_KF0Osqf.jnet’ saved [8180/8180]
+

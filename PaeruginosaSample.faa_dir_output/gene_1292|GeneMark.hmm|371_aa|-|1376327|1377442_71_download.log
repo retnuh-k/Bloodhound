@@ -1,0 +1,11 @@
+--2022-05-09 06:40:03--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_GslyVri/jp_GslyVri.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13841 (14K) [text/plain]
+Saving to: ‘jp_GslyVri.jnet’
+
+     0K .......... ...                                        100%  141K=0.1s
+
+2022-05-09 06:40:03 (141 KB/s) - ‘jp_GslyVri.jnet’ saved [13841/13841]
+

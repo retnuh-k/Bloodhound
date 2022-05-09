@@ -1,0 +1,11 @@
+--2022-05-09 06:33:50--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_6hISHqi/jp_6hISHqi.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15543 (15K) [text/plain]
+Saving to: ‘jp_6hISHqi.jnet’
+
+     0K .......... .....                                      100%  160K=0.09s
+
+2022-05-09 06:33:51 (160 KB/s) - ‘jp_6hISHqi.jnet’ saved [15543/15543]
+

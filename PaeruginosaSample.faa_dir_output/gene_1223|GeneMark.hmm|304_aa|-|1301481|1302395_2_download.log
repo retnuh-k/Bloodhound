@@ -1,0 +1,11 @@
+--2022-05-08 21:43:43--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_ZHflXSl/jp_ZHflXSl.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11362 (11K) [text/plain]
+Saving to: ‘jp_ZHflXSl.jnet’
+
+     0K .......... .                                          100%  117K=0.09s
+
+2022-05-08 21:43:43 (117 KB/s) - ‘jp_ZHflXSl.jnet’ saved [11362/11362]
+

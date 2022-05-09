@@ -1,0 +1,11 @@
+--2022-05-09 14:02:00--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_Stas7uM/jp_Stas7uM.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7403 (7.2K) [text/plain]
+Saving to: ‘jp_Stas7uM.jnet’
+
+     0K .......                                               100% 78.8K=0.09s
+
+2022-05-09 14:02:00 (78.8 KB/s) - ‘jp_Stas7uM.jnet’ saved [7403/7403]
+

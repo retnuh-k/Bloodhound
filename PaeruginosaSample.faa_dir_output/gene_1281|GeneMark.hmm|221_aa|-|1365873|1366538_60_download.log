@@ -1,0 +1,11 @@
+--2022-05-09 05:35:59--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_nFsuCiP/jp_nFsuCiP.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8291 (8.1K) [text/plain]
+Saving to: ‘jp_nFsuCiP.jnet’
+
+     0K ........                                              100% 6.01M=0.001s
+
+2022-05-09 05:35:59 (6.01 MB/s) - ‘jp_nFsuCiP.jnet’ saved [8291/8291]
+

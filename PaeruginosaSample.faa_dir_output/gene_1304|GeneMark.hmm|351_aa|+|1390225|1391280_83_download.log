@@ -1,0 +1,11 @@
+--2022-05-09 09:40:28--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_ZpQqCTL/jp_ZpQqCTL.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13101 (13K) [text/plain]
+Saving to: ‘jp_ZpQqCTL.jnet’
+
+     0K .......... ..                                         100%  137K=0.09s
+
+2022-05-09 09:40:28 (137 KB/s) - ‘jp_ZpQqCTL.jnet’ saved [13101/13101]
+

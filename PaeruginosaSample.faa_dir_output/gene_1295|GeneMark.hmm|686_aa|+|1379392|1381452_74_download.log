@@ -1,0 +1,11 @@
+--2022-05-09 07:13:34--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_voyVLHG/jp_voyVLHG.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25496 (25K) [text/plain]
+Saving to: ‘jp_voyVLHG.jnet’
+
+     0K .......... .......... ....                            100%  256K=0.1s
+
+2022-05-09 07:13:34 (256 KB/s) - ‘jp_voyVLHG.jnet’ saved [25496/25496]
+

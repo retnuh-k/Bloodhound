@@ -1,0 +1,11 @@
+--2022-05-09 01:27:14--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_EJquaob/jp_EJquaob.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11288 (11K) [text/plain]
+Saving to: ‘jp_EJquaob.jnet’
+
+     0K .......... .                                          100%  118K=0.09s
+
+2022-05-09 01:27:15 (118 KB/s) - ‘jp_EJquaob.jnet’ saved [11288/11288]
+

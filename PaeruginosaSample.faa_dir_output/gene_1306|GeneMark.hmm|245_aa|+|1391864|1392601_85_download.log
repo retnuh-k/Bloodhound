@@ -1,0 +1,11 @@
+--2022-05-09 12:49:21--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_PguM325/jp_PguM325.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9179 (9.0K) [text/plain]
+Saving to: ‘jp_PguM325.jnet’
+
+     0K ........                                              100% 9.88M=0.001s
+
+2022-05-09 12:49:21 (9.88 MB/s) - ‘jp_PguM325.jnet’ saved [9179/9179]
+

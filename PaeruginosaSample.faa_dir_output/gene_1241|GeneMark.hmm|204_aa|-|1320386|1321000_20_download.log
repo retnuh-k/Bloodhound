@@ -1,0 +1,11 @@
+--2022-05-08 23:17:28--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_vkKvB_l/jp_vkKvB_l.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7662 (7.5K) [text/plain]
+Saving to: ‘jp_vkKvB_l.jnet’
+
+     0K .......                                               100% 11.7M=0.001s
+
+2022-05-08 23:17:28 (11.7 MB/s) - ‘jp_vkKvB_l.jnet’ saved [7662/7662]
+

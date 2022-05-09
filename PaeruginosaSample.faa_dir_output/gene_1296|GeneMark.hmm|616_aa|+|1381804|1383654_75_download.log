@@ -1,0 +1,11 @@
+--2022-05-09 07:22:30--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_93vSiNF/jp_93vSiNF.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22906 (22K) [text/plain]
+Saving to: ‘jp_93vSiNF.jnet’
+
+     0K .......... .......... ..                              100%  235K=0.1s
+
+2022-05-09 07:22:30 (235 KB/s) - ‘jp_93vSiNF.jnet’ saved [22906/22906]
+

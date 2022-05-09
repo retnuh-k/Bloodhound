@@ -1,0 +1,11 @@
+--2022-05-09 03:29:36--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_NOlgcBO/jp_NOlgcBO.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17911 (17K) [text/plain]
+Saving to: ‘jp_NOlgcBO.jnet’
+
+     0K .......... .......                                    100%  182K=0.1s
+
+2022-05-09 03:29:36 (182 KB/s) - ‘jp_NOlgcBO.jnet’ saved [17911/17911]
+

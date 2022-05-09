@@ -1,0 +1,11 @@
+--2022-05-09 08:21:24--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_eM1180c/jp_eM1180c.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12102 (12K) [text/plain]
+Saving to: ‘jp_eM1180c.jnet’
+
+     0K .......... .                                          100%  123K=0.1s
+
+2022-05-09 08:21:25 (123 KB/s) - ‘jp_eM1180c.jnet’ saved [12102/12102]
+
