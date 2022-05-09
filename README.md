@@ -33,4 +33,6 @@ Instructions to run on new species:
 3. Concatenate genemark sequences to single line for jpred (following notebook code may help): https://colab.research.google.com/drive/1Z25WXRsxeRr4p67NTGlRpdXLpu-flI0i#scrollTo=QHwtVL82jRyd
 4. Run jpred mass scheduler on formatted fasta file (tutorial here: http://www.compbio.dundee.ac.uk/jpred4/downloads/Jpred_4_Tutorial_on_Scheduled_Mass_Submission.pdf) on formatted peptide sequence fasta file (note: Jpred is extremely slow for many proteins; this step may be sped up by running jnet software on your own machine rather than using the jpred server)
 5. Create a csv for the peptide sequences with two columns: 'seq_name' and 'seq_aa' (keep whole genemark output name in 'seq_name')
-6. Run "python3 bloodhound.py <peptide_seqs.csv> <jpred_output.faa_dir_output<
+6. Run "python3 bloodhound.py <peptide_seqs.csv> <jpred_output.faa_dir_output>
+
+Link to Colab notebook used to prototype and generate figures for data analysis: https://colab.research.google.com/drive/1F8mX9EzZoSRYDdkyBJJEhngCshYDkfW9#scrollTo=kD4yPkitxwsF
