@@ -2,14 +2,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import re
-import os
 import sys
-from sklearn import preprocessing
 from hmmlearn import hmm 
-import pickle
 from acahmms import *
 from acrhmm import *
-from matplotlib.collections import LineCollection
 
 def main():
 
@@ -32,12 +28,21 @@ def main():
   acr_cands = get_acr_cands(peps, acrHmm)
   acr_cand_locs = get_cand_coords(acr_cands)
 
-  # PRINT CANDIDATE REGIONS
-  print(f"Acr candidate regions:\n{acr_cand_locs}\n")
-  print(f"Aca candidate regions:\n{aca_cands}")
+  # GET TABLE
+  aca_loci_df = pd.DataFrame(columns=["loci_start","loci_end"])
+  aca_loci_df["loci_start"] = [loci[0] for loci in aca_cands]
+  aca_loci_df["loci_end"] = [loci[1] for loci in aca_cands]
+  aca_loci_df.sort_values("loci_start",inplace=True)
+
+  acr_loci_df = pd.DataFrame(columns=["loci_start","loci_end"])
+  acr_loci_df["loci_start"] = [loci[0] for loci in acr_cand_locs]
+  acr_loci_df["loci_end"] = [loci[1] for loci in acr_cand_locs]
+  acr_loci_df.sort_values("loci_start",inplace=True)
+  
+  print(f"Aca candidate loci:\n{aca_loci_df}\n")
+  print(f"Acr candidate loci:\n{acr_loci_df}")
 
   # PLOT REGIONS
-
   coords = []
   # Get range of input for plot
   for txt in peps.seq_name:
@@ -54,10 +59,10 @@ def main():
   #Y = 2: ACR
 
   for x in range(len(acr_cand_locs)):
-    ax.plot([acr_cand_locs[x][0]-10000, acr_cand_locs[x][1]+10000], [2, 2], color='red', linewidth = 10)
+    ax.plot([int(acr_cand_locs[x][0])-75, int(acr_cand_locs[x][1])+75], [2, 2], color='red', linewidth = 10)
 
   for x in range(len(aca_cands)):
-    ax.plot([int(aca_cands[x][0]) - 10000, int(aca_cands[x][1]) +10000], [1, 1], color='blue', linewidth = 10)
+    ax.plot([int(aca_cands[x][0])-75, int(aca_cands[x][1])+75], [1, 1], color='blue', linewidth = 10)
 
   plt.ylim([0, 3])
   plt.show()

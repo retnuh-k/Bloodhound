@@ -6,15 +6,11 @@
 *   States: chem_states
 """
 
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import re
-import os
-import sys
 from sklearn import preprocessing
 from hmmlearn import hmm 
-import pickle
 from acahmms import *
 
 le_pep = preprocessing.LabelEncoder()
